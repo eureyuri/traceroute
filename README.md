@@ -1,5 +1,6 @@
 # Traceroute
 Written in Python using raw sockets, ICMP request, and reply messages.
+<br>
 Screenshots to verify results are in the directory.
 
 ## IcmpPing.py
@@ -24,10 +25,12 @@ facebook.com, and engineering.columbia.edu.
 Screenshots to verify results are in the directory.
 
 ## Environment
+```
 $ python3 --version
 Python 3.7.3
 $ uname
 Darwin
+```
 
 ## About ICMP
 ICMP header starts after bit 160 of IP header
